@@ -12,7 +12,7 @@
         <img src="imagenesElectronicos/laptop.png" class="card-img-top"  alt="Iphone 17">
         <div class="card-body text-center">
           <h5 class="card-title">Iphone 17</h5>
-          <p class="card-text fw-bold text-success">S/ 1200</p>
+          <p class="card-text fw-bold text-success">S/6,649</p>
           <a href="#" class="btn btn-primary">Agregar al carrito</a>
         </div>
       </div>
@@ -24,7 +24,7 @@
         <img src="imagenesElectronicos/note14.png" class="card-img-top" alt="Redmi Note 14">
         <div class="card-body text-center">
           <h5 class="card-title">Redmi Note 14</h5>
-          <p class="card-text fw-bold text-success">S/ 150</p>
+          <p class="card-text fw-bold text-success">S/ 850</p>
           <a href="#" class="btn btn-primary">Agregar al carrito</a>
         </div>
       </div>
