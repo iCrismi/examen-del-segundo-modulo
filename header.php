@@ -25,19 +25,14 @@
     </div>
   </div>
 </header> -->
-<!DOCTYPE html>
-<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
   <link rel="stylesheet" type="text/css" href="/scss/carousel.css">
+  <link rel="stylesheet" type="text/css" href="/node_modules/bootstrap/dist/css/bootstrap.min.css">
 </head>
-<body>
 <header data-bs-theme="dark">
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Carousel</a>
+      <a class="navbar-brand" href="#">Tienda</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -51,11 +46,17 @@
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav me-auto mb-2 mb-md-0">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="#">Categorias</a>
           </li>
-          <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Ofertas / Promociones</a></li>
           <li class="nav-item">
             <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/electronicos.php">Opiniones / Reseñas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Opiniones / Reseñas</a>
           </li>
         </ul>
         <form class="d-flex" role="search">
